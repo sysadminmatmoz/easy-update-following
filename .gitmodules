@@ -1,0 +1,20 @@
+[submodule "smile-sa-addons"]
+	path = smile-sa-addons
+	url = https://github.com/Smile-SA/odoo_addons.git
+    branch = 8.0
+[submodule "empiro"]
+	path = empiro
+	url = https://github.com/emiprotechnologies/odoo-addons.git
+    branch = 8.0
+[submodule "noviat"]
+	path = noviat
+	url = https://github.com/luc-demeyer/noviat-apps.git
+    branch = 8.0
+[submodule "onestein"]
+	path = onestein
+	url = https://github.com/onesteinbv/addons-onestein.git
+    branch = 8.0
+[submodule "bizzapp"]
+	path = bizzapp
+	url = https://github.com/bizzappdev/odoo_apps.git
+    branch = 8.0
