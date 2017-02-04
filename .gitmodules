@@ -18,3 +18,23 @@
 	path = bizzapp
 	url = https://github.com/bizzappdev/odoo_apps.git
     branch = 8.0
+[submodule "nedaszilinskas/cms_tabs_building_blocks"]
+	path = nedaszilinskas/cms_tabs_building_blocks
+	url = https://github.com/nedaszilinskas/Odoo-CMS-Tabs-Building-Block.git
+    branch = 8.0
+[submodule "nedaszilinskas/cms_variant_pictures"]
+	path = nedaszilinskas/cms_variant_pictures
+	url = https://github.com/nedaszilinskas/Odoo-CMS-Variant-Pictures.git
+    branch = 8.0
+[submodule "nedaszilinskas/cms_tip"]
+	path = nedaszilinskas/cms_tip
+	url = https://github.com/nedaszilinskas/Odoo-CMS-Variant-Pictures.git
+    branch = 8.0
+[submodule "nedaszilinskas/cycle_building_block"]
+	path = nedaszilinskas/cycle_building_block
+	url = https://github.com/nedaszilinskas/Odoo-CMS-Cycle-Building-Block.git
+    branch = 8.0
+[submodule "nedaszilinskas/embed_html"]
+	path = nedaszilinskas/embed_html
+	url = https://github.com/nedaszilinskas/Odoo-CMS-Embed-HTML-Building-Block.git
+    branch = 8.0
