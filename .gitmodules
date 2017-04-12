@@ -38,3 +38,7 @@
 	path = nedaszilinskas/embed_html
 	url = https://github.com/nedaszilinskas/Odoo-CMS-Embed-HTML-Building-Block.git
     branch = 8.0
+[submodule "vertelscribus"]
+	path = vertelscribus
+	url = https://github.com/vertelab/odoo-report.git
+    branch = 8.0
